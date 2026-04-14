@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/ainto-logo.png" width="128" alt="Ainto">
+  <img src="https://ainto.app/logo-256.png" width="128" alt="Ainto">
 </p>
 
 <h1 align="center">Ainto</h1>
@@ -28,16 +28,11 @@ Press `Tab` to chat with AI right inside your launcher. Search, launch, ask — 
 
 ### What's inside
 
-- **App Search** — Fuzzy matching with frecency ranking. Results improve as you use them.
-- **AI Chat** — Press `Tab` to ask AI anything. No browser, no context switch.
+- **AI** — Press `Tab` to chat, or select text → run & replace (Fix Grammar, Translate, Summarize, or your own)
+- **App Search** — Fuzzy matching with frecency ranking
 - **Clipboard History** — Text, images, files. Searchable and persistent.
-- **Snippets** — Type a keyword, expand to anything. Dynamic placeholders like `{date}` and `{clipboard}`.
-- **AI Commands** — Select text anywhere, run Fix Grammar / Translate / Summarize instantly.
+- **Snippets** — Text expansion in any app with dynamic placeholders (`{date}`, `{clipboard}`)
 
 ### Built with
 
 SwiftUI + AppKit frontend. Rust core library. Connected over C FFI. No Electron. No web views. Native and fast.
-
-### Coming soon
-
-Ainto is under active development. Signed builds will be available via [GitHub Releases](https://github.com/ainto-labs/ainto-app/releases).
