@@ -5,7 +5,7 @@
 <h1 align="center">Ainto</h1>
 
 <p align="center">
-  A lightweight, open-source macOS launcher with built-in AI integration.<br>
+  A lightweight, open-source macOS launcher with built-in AI commands.<br>
   <em>The Spotlight & Raycast alternative for engineers who keep it simple.</em>
 </p>
 
