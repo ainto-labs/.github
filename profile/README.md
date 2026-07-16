@@ -14,6 +14,12 @@
   <a href="https://github.com/ainto-labs/ainto-app">Source Code</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ainto-labs/ainto-app/releases/latest/download/Ainto.dmg">
+    <img src="https://ainto.app/download-macos.svg" alt="Download for macOS">
+  </a>
+</p>
+
 ---
 
 ### Why Ainto?
