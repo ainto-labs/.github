@@ -20,24 +20,28 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://ainto.app/launcher.jpg" width="800" alt="Ainto's search panel listing apps and built-in commands">
+</p>
+
 ---
 
 ### Why Ainto?
 
-Most launchers ship dozens of features you'll never touch — window management, calendar widgets, currency converters, note-taking, and more.
+Most launchers ship dozens of features you'll never touch: window management, calendar widgets, currency converters, note-taking, and more.
 
 **Do you really need all that?**
 
-Ainto takes a different approach: stay lightweight, launch apps fast, and integrate the one tool that actually multiplies your productivity — **AI**.
+Ainto takes a different approach. It stays lightweight, launches apps fast, and integrates the one tool that actually multiplies your productivity: **AI**.
 
-Press `Tab` to chat with AI right inside your launcher. Search, launch, ask — all from one keystroke. For a software engineer, that's more than enough.
+Press <kbd>Tab</kbd> to chat with AI right inside your launcher. Search, launch, and ask, all from one keystroke. For a software engineer, that's more than enough.
 
 ### What's inside
 
-- **AI** — Press `Tab` to chat, or select text → run & replace (Fix Grammar, Translate, Summarize, or your own)
-- **App Search** — Fuzzy matching with frecency ranking
-- **Clipboard History** — Text, images, files. Searchable and persistent.
-- **Snippets** — Text expansion in any app with dynamic placeholders (`{date}`, `{clipboard}`)
+- **AI.** Press <kbd>Tab</kbd> to chat, or select text → run & replace (Fix Grammar, Translate, Summarize, or your own)
+- **App Search.** Fuzzy matching with frecency ranking
+- **Clipboard History.** Text, images, files. Searchable and persistent.
+- **Snippets.** Text expansion in any app with dynamic placeholders (`{date}`, `{clipboard}`)
 
 ### Built with
 
